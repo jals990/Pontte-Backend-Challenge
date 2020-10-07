@@ -70,7 +70,7 @@ Consulte a documentação para entender o uso dessa API 👉🏾 [API](https://w
 **Clone o projeto e acesse o diretório**
 
 ```bash
-$ git clone https://github.com/jals990/Pontte-Backend-Challenge && cd backend-pontte
+$ git clone https://github.com/jals990/Pontte-Backend-Challenge.git && cd backend-pontte
 ```
 
 > Obs. 2: Certifique-se de não estar utilizando a porta 3333, caso esteja, altere no aquivo .env a variável APP_PORT antes de executar o último comando (yarn dev)
