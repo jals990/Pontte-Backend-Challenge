@@ -13,17 +13,17 @@
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-juarez%20silva-%23FF9000">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jals990/backend-pontte?color=%23FF9000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jals990/Pontte-Backend-Challenge?color=%23FF9000">
 
-  <a href="https://github.com/jals990/backend-pontte/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jals990/backend-pontte?color=%23FF9000">
+  <a href="https://github.com/jals990/Pontte-Backend-Challenge/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jals990/Pontte-Backend-Challenge?color=%23FF9000">
   </a>
 
-  <a href="https://github.com/jals990/backend-pontte/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/jals990/backend-pontte?color=%23FF9000">
+  <a href="https://github.com/jals990/Pontte-Backend-Challenge/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/jals990/Pontte-Backend-Challenge?color=%23FF9000">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/jals990/backend-pontte?color=%23FF9000">
+  <img alt="GitHub" src="https://img.shields.io/github/license/jals990/Pontte-Backend-Challenge?color=%23FF9000">
 </p>
 
 <p id="insomniaButton" align="center">
@@ -70,7 +70,7 @@ Consulte a documentação para entender o uso dessa API 👉🏾 [API](https://w
 **Clone o projeto e acesse o diretório**
 
 ```bash
-$ git clone https://github.com/jals990/backend-pontte && cd backend-pontte
+$ git clone https://github.com/jals990/Pontte-Backend-Challenge && cd backend-pontte
 ```
 
 > Obs. 2: Certifique-se de não estar utilizando a porta 3333, caso esteja, altere no aquivo .env a variável APP_PORT antes de executar o último comando (yarn dev)
